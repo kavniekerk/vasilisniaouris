@@ -1,0 +1,5 @@
+################/random/setSavingFlag 1
+#/process/inactivate muIoni
+#/run/physicsModified
+#/tracking/storeTrajectory 1
+/run/beamOn 5000
